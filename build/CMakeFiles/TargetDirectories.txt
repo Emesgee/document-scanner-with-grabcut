@@ -1,0 +1,4 @@
+C:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner/build/CMakeFiles/submission.dir
+C:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner/build/CMakeFiles/submission2.dir
+C:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner/build/CMakeFiles/ZERO_CHECK.dir

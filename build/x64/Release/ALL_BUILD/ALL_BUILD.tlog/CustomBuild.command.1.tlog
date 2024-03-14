@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\PROJECTS\COMPUTERVISION\CVDL-MASTER-PROGRAM\WEEK10-CPP\DOCUMENT SCANNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner" "-BC:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner/build" --check-stamp-file "C:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

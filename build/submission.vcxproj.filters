@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\HP\Desktop\projects\computervision\CVDL-Master-Program\week10-cpp\document scanner\submission.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HP\Desktop\projects\computervision\CVDL-Master-Program\week10-cpp\document scanner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D4052DFA-F01E-3EBE-9847-03035EB161F7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

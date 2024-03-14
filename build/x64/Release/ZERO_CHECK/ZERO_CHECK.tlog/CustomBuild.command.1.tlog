@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\PROJECTS\COMPUTERVISION\CVDL-MASTER-PROGRAM\WEEK10-CPP\DOCUMENT SCANNER\BUILD\CMAKEFILES\D73E805F54F30705A5BA7FDF50638C62\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner" "-BC:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/HP/Desktop/projects/computervision/CVDL-Master-Program/week10-cpp/document scanner/build/Week5.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
