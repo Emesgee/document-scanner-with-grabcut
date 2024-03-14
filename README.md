@@ -32,5 +32,3 @@ You can choose your own VS version in my case it was:  cmake -G "Visual Studio 1
 
 Credits
 This application was developed by Your Mohammad Ghadban.
-
-Cheers!
